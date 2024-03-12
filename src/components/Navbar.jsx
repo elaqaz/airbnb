@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from 'airbnb/src/assets/travel and swim.webp';
+import logo from 'airbnb/src/assets/travel and swim.webp'
 import './Navbar.css';
 
 
